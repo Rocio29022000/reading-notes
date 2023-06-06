@@ -111,5 +111,15 @@ GitHub is your **remote** repository
 A repository os a collection of files that you've told Git to pay attention to: 
 usually one project = 1 repository.
 
+### Making a new repository
+- make new repository 
+- make sure SSH selected when pressing code
+- copy and paste into Ubuntu making sure you know what path you are in.
+- git clone (paste address from gitHub)
+![Screenshot](https://github.com/Rocio29022000/reading-notes/assets/135631905/7adb4133-ce4d-47a3-a680-c4eddd7dda94)
+- git() in purple telling you its from gitHub 
+- (main) shows you you are in a main branch
+![image](https://github.com/Rocio29022000/reading-notes/assets/135631905/604ddf00-8d5e-4f10-a2f1-bc49eeff9998)
+
 
 
