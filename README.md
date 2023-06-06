@@ -23,6 +23,7 @@ What is growth mindset?
 **Mind** is a person's ability to think and reason; the intellect.
 As Chris mentioned yesterday; 
 > "A flea can only jump as high as the jar its in " - Chris Seaman  
+
 Growth mindset is a state of mind where you are seeking that expansion of your capabilities, where you, through practice, failure, perseverence and awareness, are able to develop your skillset.
 
 #### Things to remember:
