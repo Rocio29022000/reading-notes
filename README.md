@@ -51,8 +51,7 @@ And here you have a random line:
 #### Block quotes
 > Here is a blockquote, this is quite cool. 
 
-#### Images
-Add .svg at the end of the url.  
+#### Images 
 ![This is the image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 You can view any of my GitHub Repositories [HERE](https://github.com/Rocio29022000?tab=repositories)
