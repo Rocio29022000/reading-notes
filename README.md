@@ -53,7 +53,7 @@ And here you have a random line:
 
 #### Images
 Add .svg at the end of the url.  
-![This is the image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fsun-sea-wave-surf-logo-vector-21155341&psig=AOvVaw3NpLH5OEhav1Fk9vgn6AjX&ust=1686131146661000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCb8JKurv8CFQAAAAAdAAAAABAE.svg)
+![This is the image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyoctocat.com%2F&psig=AOvVaw1u0VCAuhLyXOVSPlGBZKfN&ust=1686131674931000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICH3I6wrv8CFQAAAAAdAAAAABAE.svg)
 
 You can view any of my GitHub Repositories [HERE](https://github.com/Rocio29022000?tab=repositories)
 
