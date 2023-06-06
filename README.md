@@ -37,7 +37,13 @@ Hello, My name is Rocio Carmona, Im 23 and have a bunch of interests, some of th
   * Surfing
   * Football
 * Boardgames
+  * Dixit
+  * Virus
+  *  
 * Travelling
+  * Solo travelling
+  * Hostels/surfcamps
+  * Van life
 
 
 ### Notes
