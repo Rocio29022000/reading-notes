@@ -3,7 +3,7 @@
 ### Tech Ed Full Stack
 
 ### Introduction
-Hello, My name is Rocio Carmona, Im 23 and have a bunch of interests, some of them include:
+Hello, My name is Rocio Carmona, I'm a 23 year old Medical Engineer. I have a bunch of interests, some of them include:
 * Sports
   * Skiing
   * Surfing
