@@ -32,8 +32,8 @@ Growth mindset is a state of mind where you are seeking that expansion of your c
 3. Prepare to **adapt**: Dont crumble if something unexpected happens, be ready to stay on your feet and do a quick turn.
 
 ## Table of Contents
-- [Code 102 Reading Notes](https://github.com/Rocio29022000/reading-notes/tree/main/102)
-    -[Class 1](https://github.com/Rocio29022000/reading-notes/blob/main/102/1.md)
+- [Code 102 Reading Notes](https://github.com/Rocio29022000/reading-notes/tree/main/102)  
+    -[Class 1](https://github.com/Rocio29022000/reading-notes/blob/main/102/1.md)  
     -[Class 2](https://github.com/Rocio29022000/reading-notes/blob/main/102/2.md) 
     -[Class 3](https://github.com/Rocio29022000/reading-notes/blob/main/102/3.md)
     -[Class 4](https://github.com/Rocio29022000/reading-notes/blob/main/102/4.md)
