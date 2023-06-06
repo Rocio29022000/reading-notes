@@ -48,5 +48,7 @@ Hello, My name is Rocio Carmona, Im 23 and have a bunch of interests, some of th
 
 ### Notes
 To start a new line make sure you add two spaces at the end.  
-And here you have a line:
+And here you have a random line:
 ***
+
+Hope you enjoy ;)
