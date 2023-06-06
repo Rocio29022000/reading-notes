@@ -1,0 +1,13 @@
+## Ubuntu(terminal) commands  
+
+pwd: print working directory
+ls: list files
+clear: clear command window
+cd: change directory
+cd .. : takes you back one step
+mkdir: make directory 
+rmdir: remove directory 
+touch XX.md : create a file
+rm XX.md : remove a file
+
+link for a basic Ubuntu commands [Here](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
