@@ -1,6 +1,6 @@
 # reading-notes
 
-### Tech Ed Full Stack
+## Tech Ed Full Stack
 
 ### Introduction
 Hello, My name is Rocio Carmona, I'm a 23 year old Medical Engineer. I have a bunch of interests, some of them include:
