@@ -52,6 +52,7 @@ And here you have a random line:
 > Here is a blockquote, this is quite cool. 
 
 #### Images
-![This is the image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fsun-sea-wave-surf-logo-vector-21155341&psig=AOvVaw3NpLH5OEhav1Fk9vgn6AjX&ust=1686131146661000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCb8JKurv8CFQAAAAAdAAAAABAE.sv)
+Add .svg at the end of the url.  
+![This is the image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fsun-sea-wave-surf-logo-vector-21155341&psig=AOvVaw3NpLH5OEhav1Fk9vgn6AjX&ust=1686131146661000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCb8JKurv8CFQAAAAAdAAAAABAE.svg)
 ***
 Hope you enjoy ;)
