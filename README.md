@@ -27,9 +27,9 @@ As Chris mentioned yesterday;
 Growth mindset is a state of mind where you are seeking that expansion of your capabilities, where you, through practice, failure, perseverence and awareness, are able to develop your skillset.
 
 #### Things to remember:
-1. Prepare to put effort in: Nothing good comes without putting any effort in.  
-2. Prepare to fail: Failures are great lessons. 
-3. Prepare to adapt: Dont crumble if something unexpected happens, be ready to stay on your feet and do a quick turn.
+1. Prepare to put **effort** in: Nothing good comes without putting any effort in.  
+2. Prepare to **fail**: Failures are great lessons. 
+3. Prepare to **adapt**: Dont crumble if something unexpected happens, be ready to stay on your feet and do a quick turn.
 
 ***
 
