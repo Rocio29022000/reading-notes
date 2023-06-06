@@ -1,4 +1,6 @@
-## Ubuntu(terminal) commands  
+##Class 1 06/06/2023
+
+### Ubuntu(terminal) commands  
 
 pwd: print working directory
 ls: list files
@@ -11,3 +13,14 @@ touch XX.md : create a file
 rm XX.md : remove a file
 
 link for a basic Ubuntu commands [Here](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+
+Extensions worth installing VSCode
+- Better Comments
+- Error Lens
+- ES7+ React/Redux/React-Native snippets
+- ESLint
+- Indent-rainbow
+- Live Server
+- Prettier - Code Formatter
+- Thunder Client
+- vscode-icons
