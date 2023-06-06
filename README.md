@@ -51,4 +51,7 @@ To start a new line make sure you add two spaces at the end.
 And here you have a random line:
 ***
 
+### Block quotes
+> Here is a blockquote, this is quite cool. 
+
 Hope you enjoy ;)
