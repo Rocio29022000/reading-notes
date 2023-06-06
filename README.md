@@ -28,3 +28,10 @@ _**Document Content**_
 
 + Brief intro
 + About
+
+
+### Introduction
+Hello, My name is Rocio Carmona, Im 23 and have a bunch of interests, some of them include:
+* Sports
+* Boardgames
+* Travelling
