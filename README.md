@@ -105,7 +105,11 @@ Extensions worth installing VSCode
 - Thunder Client
 - vscode-icons
 
+Git is your **local** repository  
+GitHub is your **remote** repository
 
+A repository os a collection of files that you've told Git to pay attention to: 
+usually one project = 1 repository.
 
 
 
