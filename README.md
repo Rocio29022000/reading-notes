@@ -31,6 +31,10 @@ Growth mindset is a state of mind where you are seeking that expansion of your c
 2. Prepare to **fail**: Failures are great lessons. 
 3. Prepare to **adapt**: Dont crumble if something unexpected happens, be ready to stay on your feet and do a quick turn.
 
+## Table of Contents
+- [Code 102 Reading Notes](https://github.com/Rocio29022000/reading-notes/tree/main/102)
+- [Code 201 Reading Notes](https://github.com/Rocio29022000/reading-notes/tree/main/201)
+
 ***
 Hope you enjoy ;)
 
