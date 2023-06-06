@@ -78,7 +78,7 @@ Hope you enjoy ;)
 
 ***
 
-##Class 1 06/06/2023
+## Class 1 06/06/2023
 
 ### Ubuntu(terminal) commands  
 
