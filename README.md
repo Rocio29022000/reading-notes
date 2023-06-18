@@ -39,7 +39,7 @@ Growth mindset is a state of mind where you are seeking that expansion of your c
     -[Class 4: CSS](/102/04.md)  
     -[Class 5: Intro Javascript](/102/05.md)  
     -[Class 6: Programming with JavaScript](/102/06.md)  
-    -[Class 7: Math, logic & computer architecture](/102/07.md)  
+    -[Class 7: Operators and Loops](/102/07.md)  
     -[Class 8: Career coaching](/102/08.md)  
 - [Code 201 Reading Notes](https://github.com/Rocio29022000/reading-notes/tree/main/201)  
     -[Class 1](/201/01.md)  
