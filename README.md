@@ -60,13 +60,18 @@ Growth mindset is a state of mind where you are seeking that expansion of your c
 
 ***
 Hope you enjoy ;)
+If you need any help, please contact me at:  
+
+<rociodelcarmen@hotmail.es>
+
 
 ***
 
 ### Additional resources
 Open tabs:
 #### HTML
-[icons](https://fontawesome.com/docs/web/add-icons/how-to)
+[Icons](https://fontawesome.com/docs/web/add-icons/how-to)  
+[Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
 
 #### CSS
 [How is CSS Structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
